@@ -1,0 +1,1 @@
+See [my blog](https://malique-auguste.github.io/html/analysis/the-soe-project-1.html)
