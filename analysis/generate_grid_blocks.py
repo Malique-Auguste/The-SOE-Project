@@ -15,7 +15,7 @@ db = pd.DataFrame(columns=["lat", "long", "grid_id", "incr"])
 
 #Signifies the width and height of the grid cells in lat and long degrees
 #If increment is 0.1, then the grid cell is 0.1 of a long and lat deg in width and height
-increment = 0.03
+increment = 0.15
 
 #Breaks the bounding box for TnT into smaller grid cells based on incremenet and iterates through it
 #Deletes grid cells that do not overlap with TnT land (omit ocean only grid cells)
